@@ -1,0 +1,25 @@
+* {
+    background-color: aqua;
+}
+
+.heading {
+    color: crimson;
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+}
+
+.dog {
+    height: 200px;
+    width: 200px;
+}
+
+/* .second {
+    color: darkmagenta;
+} */
+
+/* p {
+    color: rgb(43, 231, 18);
+} */
